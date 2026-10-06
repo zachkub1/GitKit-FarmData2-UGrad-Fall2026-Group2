@@ -1,6 +1,6 @@
 ## FarmData2 Licensing Information ##
 
-FarmData2 is a [Free Cultural Work].  This document outlines the licenses that apply to FarmData2 and the agreement which governs contributions.  Complete copies of these documents can be be found in the [licenses directory]. All copies and forks of FarmData2 must be maintained in compliance with those licenses.
+FarmData2 is a [Free Cultural Work].  This document outlines the licenses that apply to FarmData2 and the agreement that governs contributions.  Complete copies of these documents can be be found in the [licenses directory]. All copies and forks of FarmData2 must be maintained in compliance with those licenses.
 
 [Free Cultural Work]: https://freedomdefined.org/Definition
 [licenses directory]: licenses
@@ -31,4 +31,4 @@ All other content, including code snippets posted in public forums, is licensed 
 
 Attribution of contributions to the FarmData2 repository are maintained in the logs of the git version control system.  The [AUTHORS.md](AUTHORS.md) file contains a list of all contributors to the repository and is updated periodically.
 
-Attribution of content in public forums is typically maintained by the appropriate forum (e.g. threads, usernames, cross linked issues, etc). If not however, it is the contributor's responsibility to ensure that proper attribution is made based.
+Attribution of content in public forums is typically maintained by the appropriate forum (e.g. threads, usernames, cross linked issues, etc). If not however, it is the contributor's responsibility to ensure that proper attribution is made.
